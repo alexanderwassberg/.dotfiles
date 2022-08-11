@@ -41,7 +41,7 @@ keymap.set('n', '<C-w><right>', '<C-w>>')
 keymap.set('n', '<C-w><up>', '<C-w>+')
 keymap.set('n', '<C-w><down>', '<C-w>-')
 
--- Publish Tool ASKAS
+-- Askås Publish Tool
 keymap.set('n', '<Space>b', ':! /usr/local/bin/node ./node_modules/air-tools/index.js %:p <cr>')
 
 -- Nvim-Tree
