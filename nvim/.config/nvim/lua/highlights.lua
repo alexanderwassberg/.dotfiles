@@ -9,4 +9,6 @@ vim.api.nvim_command([[
     augroup ChangeBackgroudColour
         autocmd colorscheme * :hi normal guibg=none
     augroup END
+
+    autocmd BufRead,BufNewFile *.tt set ft=tt2html
 ]])
