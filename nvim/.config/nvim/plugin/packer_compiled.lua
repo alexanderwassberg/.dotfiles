@@ -214,11 +214,6 @@ _G.packer_plugins = {
     path = "/Users/alexander.wassberg/.local/share/nvim/site/pack/packer/start/telescope.nvim",
     url = "https://github.com/nvim-telescope/telescope.nvim"
   },
-  ["which-key.nvim"] = {
-    loaded = true,
-    path = "/Users/alexander.wassberg/.local/share/nvim/site/pack/packer/start/which-key.nvim",
-    url = "https://github.com/folke/which-key.nvim"
-  },
   ["zen-mode.nvim"] = {
     loaded = true,
     path = "/Users/alexander.wassberg/.local/share/nvim/site/pack/packer/start/zen-mode.nvim",

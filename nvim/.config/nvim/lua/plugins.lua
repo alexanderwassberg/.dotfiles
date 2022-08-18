@@ -21,7 +21,6 @@ packer.startup(function(use)
   use 'williamboman/mason.nvim'
   use 'williamboman/mason-lspconfig.nvim'
   use 'kyazdani42/nvim-tree.lua' -- File Explorer
-  use 'folke/which-key.nvim' -- Displays keymappings
 
   use 'glepnir/lspsaga.nvim' -- LSP UIs
   use 'L3MON4D3/LuaSnip'
