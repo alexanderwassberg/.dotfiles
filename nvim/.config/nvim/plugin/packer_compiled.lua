@@ -89,6 +89,11 @@ _G.packer_plugins = {
     path = "/Users/alexander.wassberg/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp",
     url = "https://github.com/hrsh7th/cmp-nvim-lsp"
   },
+  ["far.vim"] = {
+    loaded = true,
+    path = "/Users/alexander.wassberg/.local/share/nvim/site/pack/packer/start/far.vim",
+    url = "https://github.com/brooth/far.vim"
+  },
   ["git.nvim"] = {
     loaded = true,
     path = "/Users/alexander.wassberg/.local/share/nvim/site/pack/packer/start/git.nvim",
@@ -98,6 +103,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/alexander.wassberg/.local/share/nvim/site/pack/packer/start/gitsigns.nvim",
     url = "https://github.com/lewis6991/gitsigns.nvim"
+  },
+  kommentary = {
+    loaded = true,
+    path = "/Users/alexander.wassberg/.local/share/nvim/site/pack/packer/start/kommentary",
+    url = "https://github.com/b3nj5m1n/kommentary"
   },
   ["lspkind-nvim"] = {
     loaded = true,

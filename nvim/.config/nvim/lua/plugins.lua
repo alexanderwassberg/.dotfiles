@@ -44,6 +44,8 @@ packer.startup(function(use)
   use 'akinsho/nvim-bufferline.lua'
   -- use 'github/copilot.vim'
 
+  use 'b3nj5m1n/kommentary' -- Fast Line Commenting tool
   use 'lewis6991/gitsigns.nvim'
   use 'dinhhuy258/git.nvim' -- For git blame & browse
+  use 'brooth/far.vim' -- Find and Replace
 end)
