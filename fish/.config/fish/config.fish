@@ -11,12 +11,11 @@ starship init fish | source
 # Exa & Listings
 alias ll "exa --long --icons"
 alias ls "exa --grid --icons"
-alias lg "exa --long --tree --level=2 --git --icons"
 
 # Git
 alias g "git"
 alias gu "gitui"
 
-# Additionals
-alias weather "curl wttr.in"
-alias cl "clear && cd"
+# Weather Shortcut
+set city saffle # Add your city
+alias weather "curl wttr.in/$city"
