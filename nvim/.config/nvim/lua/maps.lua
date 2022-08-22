@@ -2,15 +2,12 @@ local keymap = vim.keymap
 
 keymap.set('n', 'x', '"_x')
 
--- Increment/decrement
+-- Increment/decrement numbers in buffer
 keymap.set('n', '+', '<C-a>')
 keymap.set('n', '-', '<C-x>')
 
 -- Select all
 keymap.set('n', '<C-a>', 'gg<S-v>G')
-
--- Save with root permission (not working for now)
---vim.api.nvim_create_user_command('W', 'w !sudo tee > /dev/null %', {})
 
 -- New tab
 keymap.set('n', 'te', ':tabedit')
