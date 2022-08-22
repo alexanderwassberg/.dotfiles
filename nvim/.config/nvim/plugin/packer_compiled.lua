@@ -94,6 +94,11 @@ _G.packer_plugins = {
     path = "/Users/alexander.wassberg/.local/share/nvim/site/pack/packer/start/far.vim",
     url = "https://github.com/brooth/far.vim"
   },
+  ["feline.nvim"] = {
+    loaded = true,
+    path = "/Users/alexander.wassberg/.local/share/nvim/site/pack/packer/start/feline.nvim",
+    url = "https://github.com/feline-nvim/feline.nvim"
+  },
   ["git.nvim"] = {
     loaded = true,
     path = "/Users/alexander.wassberg/.local/share/nvim/site/pack/packer/start/git.nvim",
@@ -118,11 +123,6 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/alexander.wassberg/.local/share/nvim/site/pack/packer/start/lspsaga.nvim",
     url = "https://github.com/glepnir/lspsaga.nvim"
-  },
-  ["lualine.nvim"] = {
-    loaded = true,
-    path = "/Users/alexander.wassberg/.local/share/nvim/site/pack/packer/start/lualine.nvim",
-    url = "https://github.com/nvim-lualine/lualine.nvim"
   },
   ["markdown-preview.nvim"] = {
     loaded = true,
@@ -213,6 +213,16 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/alexander.wassberg/.local/share/nvim/site/pack/packer/start/telescope.nvim",
     url = "https://github.com/nvim-telescope/telescope.nvim"
+  },
+  ["vim-kitty"] = {
+    loaded = true,
+    path = "/Users/alexander.wassberg/.local/share/nvim/site/pack/packer/start/vim-kitty",
+    url = "https://github.com/fladson/vim-kitty"
+  },
+  ["vim-plist"] = {
+    loaded = true,
+    path = "/Users/alexander.wassberg/.local/share/nvim/site/pack/packer/start/vim-plist",
+    url = "https://github.com/darfink/vim-plist"
   },
   ["zen-mode.nvim"] = {
     loaded = true,
