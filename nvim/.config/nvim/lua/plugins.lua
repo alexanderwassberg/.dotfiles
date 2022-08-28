@@ -12,6 +12,7 @@ packer.startup(function(use)
   use { "catppuccin/nvim", as = "catppuccin" }
   use { 'nvim-treesitter/nvim-treesitter', run = ':TSUpdate' }
   use { 'iamcco/markdown-preview.nvim', run = function() vim.fn['mkdp#util#install']() end }
+  use 'glepnir/dashboard-nvim'
 
   -- LSP Stuff
   use 'neovim/nvim-lspconfig'
