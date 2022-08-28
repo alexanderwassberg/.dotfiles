@@ -1,0 +1,37 @@
+# Typography
+font:
+  normal:
+    family: SauceCodePro NF
+    style: Regular
+
+  bold:
+    family: SauceCodePro NF
+    style: Semibold
+
+  italic:
+    family: SauceCodePro NF
+    style: Italic
+
+  size: 13.0
+
+  offset:
+    x: 0
+    y: 0
+
+  glyph_offset:
+    x: 0
+    y: 0
+
+  use_thin_strokes: true
+
+custom_cursor_colors: true
+
+# Window
+window:
+  decorations: none
+  opacity: 0.95
+  padding: 
+    x: 0
+    y: 0
+
+alt_send_esc: false
