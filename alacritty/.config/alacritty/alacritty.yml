@@ -29,7 +29,7 @@ custom_cursor_colors: true
 # Window
 window:
   decorations: none
-  opacity: 0.95
+  opacity: 1
   padding: 
     x: 0
     y: 0
