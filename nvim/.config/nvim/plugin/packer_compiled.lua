@@ -164,11 +164,6 @@ _G.packer_plugins = {
     path = "/Users/alexander.wassberg/.local/share/nvim/site/pack/packer/start/nvim-cmp",
     url = "https://github.com/hrsh7th/nvim-cmp"
   },
-  ["nvim-colorizer.lua"] = {
-    loaded = true,
-    path = "/Users/alexander.wassberg/.local/share/nvim/site/pack/packer/start/nvim-colorizer.lua",
-    url = "https://github.com/norcalli/nvim-colorizer.lua"
-  },
   ["nvim-lspconfig"] = {
     loaded = true,
     path = "/Users/alexander.wassberg/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",
@@ -218,6 +213,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/alexander.wassberg/.local/share/nvim/site/pack/packer/start/telescope.nvim",
     url = "https://github.com/nvim-telescope/telescope.nvim"
+  },
+  ["vim-css-color"] = {
+    loaded = true,
+    path = "/Users/alexander.wassberg/.local/share/nvim/site/pack/packer/start/vim-css-color",
+    url = "https://github.com/ap/vim-css-color"
   },
   ["vim-kitty"] = {
     loaded = true,
