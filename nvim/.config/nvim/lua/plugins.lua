@@ -49,10 +49,11 @@ packer.startup(function(use)
   -- Apperance
   use 'feline-nvim/feline.nvim'
   use 'kyazdani42/nvim-web-devicons'
-  use 'norcalli/nvim-colorizer.lua'
   use 'folke/zen-mode.nvim'
   use 'akinsho/nvim-bufferline.lua'
+  use 'ap/vim-css-color'
 
+  -- Filetypes
   use 'darfink/vim-plist'
   use 'fladson/vim-kitty'
 end)
