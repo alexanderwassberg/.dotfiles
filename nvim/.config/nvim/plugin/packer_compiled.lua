@@ -94,11 +94,6 @@ _G.packer_plugins = {
     path = "/Users/alexander.wassberg/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp",
     url = "https://github.com/hrsh7th/cmp-nvim-lsp"
   },
-  ["coc.nvim"] = {
-    loaded = true,
-    path = "/Users/alexander.wassberg/.local/share/nvim/site/pack/packer/start/coc.nvim",
-    url = "https://github.com/neoclide/coc.nvim"
-  },
   ["dashboard-nvim"] = {
     loaded = true,
     path = "/Users/alexander.wassberg/.local/share/nvim/site/pack/packer/start/dashboard-nvim",
@@ -228,16 +223,6 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/alexander.wassberg/.local/share/nvim/site/pack/packer/start/vim-css-color",
     url = "https://github.com/ap/vim-css-color"
-  },
-  ["vim-kitty"] = {
-    loaded = true,
-    path = "/Users/alexander.wassberg/.local/share/nvim/site/pack/packer/start/vim-kitty",
-    url = "https://github.com/fladson/vim-kitty"
-  },
-  ["vim-plist"] = {
-    loaded = true,
-    path = "/Users/alexander.wassberg/.local/share/nvim/site/pack/packer/start/vim-plist",
-    url = "https://github.com/darfink/vim-plist"
   },
   ["zen-mode.nvim"] = {
     loaded = true,

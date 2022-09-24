@@ -53,7 +53,4 @@ packer.startup(function(use)
   use 'akinsho/nvim-bufferline.lua'
   use 'ap/vim-css-color'
 
-  -- Filetypes
-  use 'darfink/vim-plist'
-  use 'fladson/vim-kitty'
 end)
